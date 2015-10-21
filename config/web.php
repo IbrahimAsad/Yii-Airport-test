@@ -42,7 +42,6 @@ $config = [
         
         'urlManager' => [
             'enablePrettyUrl' => true,
-            'caseSensitive'=>false
         ],
         
     ],
